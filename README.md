@@ -1,6 +1,7 @@
 - 👋 Hi I’m @AmosWainaina
 - - 👀 I’m interested in coding
   -  - 🌱 I’m currently learning java and react...
+     - also leaning php, git ,and venturing into python
 - 💞️ I’m looking to collaborate
 - - 📫 How to reach me ... toxicamos99@gmail.com
 
